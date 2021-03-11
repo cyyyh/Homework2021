@@ -15,3 +15,4 @@ public class Customer {
         System.out.println(id + "\t" + cost + "\t" + discount + "\t" + total);
     }
 }
+hi
