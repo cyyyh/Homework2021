@@ -12,6 +12,6 @@ public class Customer {
         this.total = total;
     }
     public void print(){
-        System.out.println(id + "\t" + cost + "\t");
+        System.out.println(id + "\t" + cost + "\t" + discount + "\t" + total);
     }
 }
