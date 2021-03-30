@@ -1,4 +1,4 @@
-package com.cc.cust;
+package com.cc;
 
 public class Customer {
     String id;

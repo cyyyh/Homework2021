@@ -1,4 +1,4 @@
-package com.cc.cust;
+package com.cc;
 
 public class Detail {
     public static void main(String[] args){
